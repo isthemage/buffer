@@ -1,5 +1,5 @@
 <?php
 	
-	echo "php no linux";
+	echo "hello Git - teste";
 
 ?>
